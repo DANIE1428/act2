@@ -1,0 +1,71 @@
+                                    body {
+                                        background-color: #F4F4F4;
+                                        font-family: Helvetica;
+                                        font-family: 'Roboto', sans-serif;
+                                    }
+                                    
+                                    h1,
+                                    h2,
+                                    h3,
+                                    h4,
+                                    h5,
+                                    h6 {
+                                        font-family: 'Roboto', sans-serif;
+                                    }
+                                    
+                                    .navbar {
+                                        padding: 6px;
+                                        margin-bottom: 150px;
+                                        background-color: white;
+                                    }
+                                    /* .hero-row {
+                                        margin: 50px;
+                                    }
+                                     */
+                                    
+                                    .header-section {
+                                        background-color: white;
+                                    }
+                                    
+                                    .hero-section {
+                                        background-color: white;
+                                    }
+                                    
+                                    .btn {
+                                        padding: 7px 30px;
+                                    }
+                                    
+                                    .col-7 {
+                                        margin-top: 150px;
+                                    }
+                                    
+                                    .company {
+                                        display: table-row;
+                                    }
+                                    
+                                    .partnership-section {
+                                        background-color: #F4F4F4;
+                                    }
+                                    
+                                    .testimonial-section {
+                                        background-color: #F4F4F4;
+                                    }
+                                    
+                                    .border {
+                                        background-color: white;
+                                        border-style: groove;
+                                        padding: 10px, 15px;
+                                        width: 20%;
+                                    }
+                                    
+                                    p.name {
+                                        color: grey;
+                                    }
+                                    
+                                    .cta-section {
+                                        padding: 10%;
+                                    }
+                                    
+                                    .footer-section {
+                                        padding: 2%;
+                                    }
